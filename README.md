@@ -26,7 +26,7 @@ All data comes from the [Western Pennsylvania Regional Data Center (WPRDC)](http
 
 - [City of Pittsburgh Parks](https://data.wprdc.org/dataset/parks1)
 - [Pittsburgh Regional Transit Stops](https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops)
-- [Pittsburgh Police Arrests] (https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025)
+- [Pittsburgh Police Arrests](https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025)
 ---
 
 ## The Result
