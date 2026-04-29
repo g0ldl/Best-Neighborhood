@@ -1,6 +1,7 @@
 # Pittsburgh's Best Neighborhood
 
 **Team:** Lucky Number Seven
+**Canvas Group Number:** Group 7
 
 **Members:**
 - Goldium Wu — GOW4@pitt.edu
@@ -25,7 +26,7 @@ All data comes from the [Western Pennsylvania Regional Data Center (WPRDC)](http
 
 - [City of Pittsburgh Parks](https://data.wprdc.org/dataset/parks1)
 - [Pittsburgh Regional Transit Stops](https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops)
-- 
+- [Pittsburgh Police Arrests] (https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025)
 ---
 
 ## The Result
@@ -46,7 +47,7 @@ See `notebooks/combined_analysis.ipynb` for the full data-driven argument and vi
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas matplotlib openpyxl numpy
    ```
 3. Download the datasets from the WPRDC links in the table above and place the CSVs in the `data/` folder.
 4. Open the notebooks in Jupyter:
