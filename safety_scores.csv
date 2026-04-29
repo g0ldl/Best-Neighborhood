@@ -1,0 +1,96 @@
+neighborhood,arrest_count,safety_score
+Chartiers City,4,1.0
+St. Clair,4,1.0
+South Shore,11,0.9988
+Saint Clair,16,0.9979
+Ridgemont,17,0.9977
+Swisshelm Park,17,0.9977
+Chartiers,23,0.9967
+Regent Square,24,0.9965
+New Homestead,29,0.9957
+East Carnegie,33,0.995
+Oakwood,37,0.9943
+Esplen,39,0.9939
+Spring Hill-City View,41,0.9936
+Summer Hill,46,0.9927
+Mount Oliver,46,0.9927
+Morningside,46,0.9927
+Fairywood,59,0.9905
+Friendship,60,0.9903
+Glen Hazel,61,0.9901
+Windgap,67,0.9891
+Polish Hill,69,0.9887
+Hays,72,0.9882
+Upper Lawrenceville,76,0.9875
+Spring Garden,80,0.9868
+Upper Hill,80,0.9868
+Allegheny West,81,0.9867
+Westwood,89,0.9853
+Arlington Heights,97,0.9839
+Lower Lawrenceville,98,0.9837
+Stanton Heights,113,0.9811
+Duquesne Heights,129,0.9784
+Fineview,132,0.9778
+Point Breeze,135,0.9773
+Lincoln Place,138,0.9768
+Banksville,143,0.9759
+Central Lawrenceville,149,0.9749
+Bon Air,154,0.974
+Southshore,159,0.9732
+West End,161,0.9728
+Arlington,174,0.9706
+Homewood West,180,0.9695
+Overbrook,181,0.9694
+Strip District,191,0.9676
+West Oakland,195,0.9669
+Central Oakland,211,0.9642
+Perry North,216,0.9633
+North Oakland,221,0.9624
+Manchester,221,0.9624
+Squirrel Hill North,225,0.9617
+Beltzhoover,231,0.9607
+Crafton Heights,240,0.9591
+Greenfield,250,0.9574
+Highland Park,254,0.9567
+California-Kirkbride,263,0.9552
+Terrace Village,264,0.955
+Spring Hill–City View,284,0.9515
+Point Breeze North,287,0.951
+Garfield,287,0.951
+South Oakland,303,0.9482
+Lincoln-Lemington-Belmar,320,0.9453
+Elliott,345,0.941
+Troy Hill,356,0.9391
+Beechview,376,0.9356
+Larimer,390,0.9332
+Squirrel Hill South,405,0.9306
+Chateau,407,0.9302
+Northview Heights,412,0.9294
+Bloomfield,414,0.929
+South Side Slopes,424,0.9273
+Allegheny Center,437,0.925
+Shadyside,468,0.9197
+Bedford Dwellings,477,0.9181
+Allentown,492,0.9155
+Hazelwood,516,0.9114
+Brighton Heights,532,0.9086
+Central Northside,536,0.9079
+Lincoln–Lemington–Belmar,545,0.9064
+Sheraden,564,0.9031
+Brookline,584,0.8996
+Perry South,600,0.8968
+Mount Washington,614,0.8944
+Middle Hill,616,0.8941
+East Hills,673,0.8842
+Marshall-Shadeland,707,0.8783
+North Shore,709,0.878
+Crawford-Roberts,719,0.8762
+Homewood North,837,0.8558
+Homewood South,912,0.8428
+Knoxville,1007,0.8264
+East Liberty,1150,0.8016
+Carrick,1248,0.7847
+Bluff,1587,0.726
+East Allegheny,1751,0.6976
+South Side Flats,3247,0.4386
+Central Business District,5781,0.0
