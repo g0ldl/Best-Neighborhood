@@ -6,7 +6,7 @@
 **Members:**
 - Goldium Wu — GOW4@pitt.edu
 - Eden Brunner — EDB67@pitt.edu
-- Helene Yao — helenemyao@gmail.com
+- Helene Yao — helenemyao@gmail.com (hmy8@pitt.edu)
 
 > *A data analysis of which Pittsburgh neighborhood is the "best," using [Western Pennsylvania Regional Data Center](https://data.wprdc.org/).*
 
