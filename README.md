@@ -4,15 +4,15 @@
 **Canvas Group Number:** Group 7
 
 **Members:**
-- Goldium Wu — GOW4@pitt.edu
-- Eden Brunner — EDB67@pitt.edu
-- Helene Yao — helenemyao@gmail.com (hmy8@pitt.edu)
+- Goldium Wu — GOW4@pitt.edu _(Quality of Life sub-metric)_
+- Eden Brunner — EDB67@pitt.edu _(Safety sub-metric)_
+- Helene Yao — helenemyao@gmail.com (hmy8@pitt.edu) _(Accessibility sub-metric)_
 
 > *A data analysis of which Pittsburgh neighborhood is the "best," using [Western Pennsylvania Regional Data Center](https://data.wprdc.org/).*
 
 **What is the best neighborhood in Pittsburgh?**
 
-"Best" is subjective, so we decided the best neighborhood in Pittsburgh is a culmination that balances three factors:
+To coin a neighborhood "Best" is subjective, depending on the weight of one's priority. So our group decided the best neighborhood in Pittsburgh is a culmination that balances three factors:
 
 1. **Quality of life** — is it a pleasant place to live? Represented by green space per neighborhood division.
 2. **Safety** — can residents feel secure going about their day? Counted by the frequently of crime that occurs in a neighborhood on a daily basis.
